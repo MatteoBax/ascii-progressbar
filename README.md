@@ -21,6 +21,6 @@ progressbar.setProgress(50); // set progress of the progressbar
 npm i ascii-convalidator
 ```
 
-# Output
+## Output
 
 ![alt text](https://github.com/MatteoBax/ascii-progressbar/blob/main/output.png?raw=true)
