@@ -23,4 +23,4 @@ npm i ascii-convalidator
 
 # Output
 
-![alt text](https://github.com/[MatteoBax]/[ascii-progressbar]/blob/[main]/output.png?raw=true)
+![alt text](https://github.com/MatteoBax/ascii-progressbar/blob/main/output.png?raw=true)
