@@ -18,7 +18,7 @@ progressbar.setProgress(50); // set progress of the progressbar
 ## Installation
 
 ```
-npm i ascii-convalidator
+npm i ascii-progressbar
 ```
 
 ## Output
