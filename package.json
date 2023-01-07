@@ -1,6 +1,6 @@
 {
   "name": "ascii-progressbar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple graphical ascii progressbar written in JS",
   "main": "main.js",
   "scripts": {
