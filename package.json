@@ -16,7 +16,7 @@
     "ascii progressbar"
   ],
   "author": "matteobax",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MatteoBax/ascii-progressbar/issues"
   },
