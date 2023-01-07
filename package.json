@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/MatteoBax/ascii-progressbar.git"
   },
+  "keywords":[
+    "cli",
+    "progressbar",
+    "ascii progressbar"
+  ],
   "author": "matteobax",
   "license": "ISC",
   "bugs": {
