@@ -1,6 +1,6 @@
 {
   "name": "ascii-progressbar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple graphical ascii progressbar written in JS",
   "main": "main.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/MatteoBax/ascii-progressbar.git"
   },
-  "keywords":[
+  "keywords": [
     "cli",
     "progressbar",
     "ascii progressbar"
